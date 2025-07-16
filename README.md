@@ -61,3 +61,11 @@ This repository contains all programming projects completed for **CSE 220: Syste
 - Image and bit-level data manipulation
 - Low-level assembly logic and simulation
 
+- ---
+
+## 📫 Contact
+
+- ✉️ evelynsun632@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/evelyn-sun-845642296/)  
+- 💻 [GitHub](https://github.com/e2sun)
+
